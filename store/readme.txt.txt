@@ -1,0 +1,1 @@
+This folder contains the SVC model, feature data, feature data mean, attendance record of each college_batchyear_section
